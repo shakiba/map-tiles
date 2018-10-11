@@ -2,6 +2,8 @@
 - A parent cell/layout can be selected from selection path below images and above layout.
 - New cells can be added to outer layout, by first selecting it from selection path and then clicking on `+` icon.
 
+[Live Demo](https://shakiba.github.io/map-tiles/build/)
+
 To start the app run:
 ```bash
 npm install
